@@ -1,0 +1,3 @@
+git add .
+git commit -m "Updated logo and link"
+git push origin update_logo
